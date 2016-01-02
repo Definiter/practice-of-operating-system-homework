@@ -1,0 +1,6 @@
+kernel//home/definiter/module/hello-1.ko
+kernel//home/definiter/module/hello-2.ko
+kernel//home/definiter/module/hello-3.ko
+kernel//home/definiter/module/hello-4.ko
+kernel//home/definiter/module/hello-5.ko
+kernel//home/definiter/module/startstop.ko

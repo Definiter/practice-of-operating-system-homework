@@ -1,0 +1,1 @@
+cmd_/home/definiter/module/quiz/solution2/producer.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/module/quiz/solution2/producer.ko /home/definiter/module/quiz/solution2/producer.o /home/definiter/module/quiz/solution2/producer.mod.o

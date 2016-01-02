@@ -1,0 +1,1 @@
+cmd_/home/definiter/homework/hw7/pagewalk/pagewalk.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/homework/hw7/pagewalk/pagewalk.ko /home/definiter/homework/hw7/pagewalk/pagewalk.o /home/definiter/homework/hw7/pagewalk/pagewalk.mod.o

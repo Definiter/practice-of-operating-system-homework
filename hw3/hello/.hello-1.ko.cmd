@@ -1,0 +1,1 @@
+cmd_/home/definiter/module/hello-1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/module/hello-1.ko /home/definiter/module/hello-1.o /home/definiter/module/hello-1.mod.o

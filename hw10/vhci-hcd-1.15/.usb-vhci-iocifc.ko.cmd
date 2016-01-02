@@ -1,0 +1,1 @@
+cmd_/home/definiter/homework/hw10/vhci-hcd-1.15/usb-vhci-iocifc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/homework/hw10/vhci-hcd-1.15/usb-vhci-iocifc.ko /home/definiter/homework/hw10/vhci-hcd-1.15/usb-vhci-iocifc.o /home/definiter/homework/hw10/vhci-hcd-1.15/usb-vhci-iocifc.mod.o

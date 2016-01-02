@@ -1,0 +1,1 @@
+cmd_/home/definiter/homework/hw6/float/float.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/homework/hw6/float/float.ko /home/definiter/homework/hw6/float/float.o /home/definiter/homework/hw6/float/float.mod.o

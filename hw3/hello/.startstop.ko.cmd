@@ -1,0 +1,1 @@
+cmd_/home/definiter/module/startstop.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/module/startstop.ko /home/definiter/module/startstop.o /home/definiter/module/startstop.mod.o

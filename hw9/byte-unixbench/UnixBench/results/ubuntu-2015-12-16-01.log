@@ -1,0 +1,17 @@
+
+########################################################
+Dhrystone 2 using register variables -- 1 copy
+==> "/home/definiter/homework/hw9/byte-unixbench/UnixBench/pgms/dhry2reg" 10 2>&1 >> "/home/definiter/homework/hw9/byte-unixbench/UnixBench/results/ubuntu-2015-12-16-01.log"
+
+#### Pass 1
+
+
+# COUNT0: 352000277
+# COUNT1: 1
+# COUNT2: lps
+# elapsed: 5.002120
+# pid: 2603
+# status: 0
+
+#### Pass 2
+

@@ -1,0 +1,1 @@
+cmd_/home/definiter/module/open/syscall.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/module/open/syscall.ko /home/definiter/module/open/syscall.o /home/definiter/module/open/syscall.mod.o

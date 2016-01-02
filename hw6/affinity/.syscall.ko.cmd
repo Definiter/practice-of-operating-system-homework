@@ -1,0 +1,1 @@
+cmd_/home/definiter/homework/hw6/affinity/syscall.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/homework/hw6/affinity/syscall.ko /home/definiter/homework/hw6/affinity/syscall.o /home/definiter/homework/hw6/affinity/syscall.mod.o

@@ -1,0 +1,5 @@
+0xe92b1379	queue_head	/home/definiter/module/quiz/solution2/producer	EXPORT_SYMBOL
+0x0593251d	queue_tail	/home/definiter/module/quiz/solution2/producer	EXPORT_SYMBOL
+0x397dc3ee	lock	/home/definiter/module/quiz/solution2/producer	EXPORT_SYMBOL
+0x93872b8c	queue	/home/definiter/module/quiz/solution2/producer	EXPORT_SYMBOL
+0xbda57782	queue_size	/home/definiter/module/quiz/solution2/producer	EXPORT_SYMBOL

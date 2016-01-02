@@ -1,0 +1,1 @@
+cmd_/home/definiter/homework/hw7/memleak/memleak.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/definiter/homework/hw7/memleak/memleak.ko /home/definiter/homework/hw7/memleak/memleak.o /home/definiter/homework/hw7/memleak/memleak.mod.o
